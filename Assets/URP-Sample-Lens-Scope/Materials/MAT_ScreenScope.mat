@@ -85,7 +85,7 @@ Material:
     - _ChromaticPower: 2.5
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DistortionAlternative: 1
+    - _DistortionAlternative: 0
     - _DistortionPower: -5
     - _DistortionScale: 0.5
     - _DstBlend: 0
@@ -101,8 +101,8 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _UseBaseMap: 1
-    - _VignetteRadius: 0.5
-    - _VignetteSmoothness: 0.15
+    - _VignetteRadius: 0.458
+    - _VignetteSmoothness: 0.054
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
