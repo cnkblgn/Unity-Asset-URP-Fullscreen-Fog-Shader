@@ -520,7 +520,7 @@ MonoBehaviour:
   scopeCamera: {fileID: 257693148}
   scopeZoomTargetFov: 15
   scopeZoomAcceleration: 2.5
-  scopeSwayAmplitude: {x: 0, y: 0}
+  scopeSwayAmplitude: {x: -1, y: -1}
   scopeSwayAcceleration: 2.5
 --- !u!114 &257693152
 MonoBehaviour:
