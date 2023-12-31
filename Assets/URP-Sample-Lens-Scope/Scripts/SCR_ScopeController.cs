@@ -77,7 +77,7 @@ public class SCR_ScopeController : MonoBehaviour
         scopeRenderer.SetActive(false);
         targetVector = Vector2.zero;
         currentVector = Vector2.zero;
-        scopeCamera.fieldOfView = currentZoomValue;
+        scopeCamera.fieldOfView = defaultZoomValue;
         scopeMaterial.SetVector("_VignetteOffset", Vector2.zero);
     }
 }
