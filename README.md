@@ -4,7 +4,7 @@ Requirements:
 
 -  Unity 2022.3.1f or newer.
 
-![Screenshot (23)](https://github.com/cnkblgn/URP-Sample-Lens-Scope/assets/91436084/642d9475-5f6b-43f1-9c83-5337a843361a)
+![Screenshot (24)](https://github.com/cnkblgn/URP-Sample-Fog/assets/91436084/bdcddcc2-69fc-49ab-9cc7-d58a4dd9c0f1)
 
 
-![FX_ScreenScope](https://github.com/cnkblgn/URP-Sample-Lens-Scope/assets/91436084/8d991c81-85a6-4cf9-8359-d5280a2c730c)
+![FX_ScreenFog](https://github.com/cnkblgn/URP-Sample-Fog/assets/91436084/943044d9-f80f-45dd-9a50-c04959b550c7)
