@@ -89,12 +89,12 @@ Material:
     - _DistortionPower: -2
     - _DistortionScale: 0
     - _DstBlend: 0
-    - _FogDepthIntensity: 0.01
-    - _FogDepthOffset: 0
-    - _FogHeightBlend: 64
-    - _FogHeightDensity: 0.75
-    - _FogHeightOffset: -128
-    - _FogLightIntensity: 1
+    - _FogDepthIntensity: 0.008
+    - _FogDepthOffset: 1.23
+    - _FogHeightBlend: 2.61
+    - _FogHeightDensity: 0.859
+    - _FogHeightOffset: 0
+    - _FogLightIntensity: 3.29
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -113,7 +113,7 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FogLightColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogLightColor: {r: 1, g: 1, b: 1, a: 1}
     - _Vector2: {r: 0, g: 1, b: 0, a: 0}
     - _Vector2_1: {r: 0, g: 0, b: 0, a: 0}
     - _VignetteOffset: {r: 0, g: 0, b: 0, a: 0}
