@@ -205,7 +205,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "GetMainLight (Custom Function)",
+    "m_Name": "GetLight (Custom Function)",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -242,7 +242,7 @@
         "m_SerializableColors": []
     },
     "m_SourceType": 0,
-    "m_FunctionName": "GetMainLight",
+    "m_FunctionName": "GetLight",
     "m_FunctionSource": "08ba66a483d058e4389c52a471bcd588",
     "m_FunctionBody": "Enter function body here..."
 }
@@ -366,10 +366,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -653.0,
-            "y": 0.0,
+            "x": -612.0,
+            "y": 0.00000286102294921875,
             "width": 208.0,
-            "height": 314.5
+            "height": 315.0
         }
     },
     "m_Slots": [
@@ -381,7 +381,7 @@
         "location"
     ],
     "m_Precision": 1,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 2,
     "m_CustomColors": {

@@ -794,7 +794,7 @@
     "m_Group": {
         "m_Id": "706838aa15014e3f95390359e53b0726"
     },
-    "m_Name": "FX_GetMainLight",
+    "m_Name": "FX_ComputeLight",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
