@@ -811,9 +811,6 @@
         },
         {
             "m_Id": "c62751fc513046f0a57173f2caf22fc5"
-        },
-        {
-            "m_Id": "7129aa059f524288a85709710fdbaa26"
         }
     ],
     "synonyms": [],
@@ -2461,21 +2458,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "7129aa059f524288a85709710fdbaa26",
-    "m_Id": 3,
-    "m_DisplayName": "ShadowAtten",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "ShadowAtten",
-    "m_StageCapability": 3,
-    "m_Value": 0.0,
-    "m_DefaultValue": 0.0,
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "7409a9907dba49d2a9dc599307d383f3",
     "m_Group": {
@@ -4014,10 +3996,10 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "c62751fc513046f0a57173f2caf22fc5",
     "m_Id": 2,
-    "m_DisplayName": "Color",
+    "m_DisplayName": "LightColor",
     "m_SlotType": 1,
     "m_Hidden": false,
-    "m_ShaderOutputName": "Color",
+    "m_ShaderOutputName": "LightColor",
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
@@ -4061,10 +4043,10 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "cb088c0f2bd94309a7852631d4c7d7cb",
     "m_Id": 1,
-    "m_DisplayName": "Direction",
+    "m_DisplayName": "LightDirection",
     "m_SlotType": 1,
     "m_Hidden": false,
-    "m_ShaderOutputName": "Direction",
+    "m_ShaderOutputName": "LightDirection",
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
